@@ -42,7 +42,7 @@ var FMSCRIPT_WAIT_TIME = 10; /** How long to wait for response from FileMaker af
  *  
  *  For Windows:
  *  IE11 doesn't supprt Promise. So you must include polyfill before this code (fmload.js)
- *  Read the WhyPromise.md
+ *  Read the README.md
  *  You can find download url there
  */
 
